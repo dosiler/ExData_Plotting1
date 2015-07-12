@@ -1,3 +1,16 @@
+##Exploratory Data Analysis
+
+This repository is for Course Project 1 from the Coursera Course "Exploratory Data Analysis."
+
+To run the included plot scripts, first do the following:
+1. Download the data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+2. Extract the file "household_power_consumption.txt" from the archive into your working directory
+3. Place the plot script in your working directory
+
+The following project information has been forked from the original at
+rdpeng/ExData_Plotting1
+
+
 ## Introduction
 
 This assignment uses data from
